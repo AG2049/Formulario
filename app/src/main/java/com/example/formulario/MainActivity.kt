@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
         val phone = etPhone.text.toString().trim()
 
         //validaciones
-        if (name.isEmpty() || name.length !=25) {
+        if (name.isEmpty()) {
 
             etName.error = "Nombre requerido"
             return
