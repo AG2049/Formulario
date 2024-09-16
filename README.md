@@ -2,4 +2,4 @@ Formulario en Kotlin
 
 Alumno: Moran Gomez Eduardo Antonio
 
-![image](https://github.com/user-attachments/assets/a3d2c432-27ba-4294-badc-f8c1f3b2972a)
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/3c79a0a1-3716-4244-8208-79e77b0d52b8)
